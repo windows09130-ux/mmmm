@@ -16,14 +16,7 @@
       "output": "static"
     },
     "plugins": [
-      "expo-router",
-      [
-        "expo-splash-screen",
-        {
-          "backgroundColor": "#208AEF",
-          "imageWidth": 76
-        }
-      ]
+      "expo-router"
     ],
     "experiments": {
       "typedRoutes": true,
